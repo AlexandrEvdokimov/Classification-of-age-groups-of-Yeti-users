@@ -1,0 +1,27 @@
+# Виртуальное окружение
+env/
+venv/
+*.env
+*.pyenv
+
+# Файлы для кеширования
+__pycache__/
+*.py[cod]
+
+# Файлы среды разработки
+.idea/
+.vscode/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.bak
+*.swp
+
+# Системные файлы
+Thumbs.db  # Windows
+.DS_Store  # macOS
+
+/Check/
+
+/datasets/ds_s13_visits.csv
